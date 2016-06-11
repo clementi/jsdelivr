@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "openseadragon",
+  "repo": "openseadragon/openseadragon",
+  "files": {
+    "include": ["openseadragon.js", "openseadragon.js.map", "openseadragon.min.js", "openseadragon.min.js.map"]
+  }
+}
